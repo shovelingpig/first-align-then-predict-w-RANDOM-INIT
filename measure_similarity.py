@@ -1,44 +1,54 @@
-import argparse
+import os
 import json
+import argparse
+from tqdm import tqdm
+from pathlib import Path
+from collections import OrderedDict
+
 import numpy as np
 import torch.nn as nn
-
-from collections import OrderedDict
-from pathlib import Path
-from tqdm import tqdm
-
 from transformers import AutoModel, AutoTokenizer, AutoConfig
 
 from hidden_similarity.utils import load_data, get_hidden_representation
 from hidden_similarity.cka import kernel_CKA
 
 
+TARGET_LANG_LIST = [
+    "ar_pud", "cs_pud", "de_pud",
+    "es_pud", "fi_pud", "fr_pud",
+    "hi_pud", "id_pud", "is_pud",
+    "it_pud", "ja_pud", "ko_pud",
+    "de_pud", "pl_pud", "pt_pud",
+    "ru_pud", "sv_pud", "th_pud",
+    "tr_pud", "zh_pud",
+]
+
+
 if __name__ == "__main__":
 
     parser = argparse.ArgumentParser()
-
-    #
     parser.add_argument("--data_dir", type=str, required=True)
+    parser.add_argument("--dataset_suffix", type=str, default="-ud-test.conllu", required=False)
+    parser.add_argument("--report_dir", type=str, default="res", required=False)
     parser.add_argument("--source_lang_dataset", type=str, default="en_pud", required=False)
+    parser.add_argument('--target_lang_list', default=TARGET_LANG_LIST, nargs='+')
     parser.add_argument("--model", type=str, default="bert-base-multilingual-cased", required=False)
     parser.add_argument("--metric", type=str, default="cka", required=False)
-    parser.add_argument("--line_filter", type=str, default=None, required=False)
-
-    parser.add_argument("--report_dir", type=str, default=".", required=False)
-    parser.add_argument("--dataset_suffix", type=str, default="-ud-test.conllu", required=False)
-    parser.add_argument("--n_sent_total", type=int, default=800, required=False)
+    parser.add_argument("--line_filter", type=str, default="# text =", required=False)
+    parser.add_argument("--n_sent_total", type=int, default=1000, required=False)
     parser.add_argument("--max_seq_len", type=int, default=200, required=False)
-    parser.add_argument('--target_lang_list', default=["de_pud"], nargs='+')
-
     args = parser.parse_args()
     args.data_dir = Path(args.data_dir)
-    args.dataset_suffix = args.dataset_suffix.strip()
+    args.report_dir = Path(args.report_dir)
+    args.report_dir = args.report_dir / args.model
 
-    # define function. given 2 parallel corpora --> get hidden representations with mBert
-    # and output similarity per layers
+    os.makedirs(args.report_dir, exist_ok=True)
+
     config = AutoConfig.from_pretrained(args.model, output_hidden_states=True)
-    model = AutoModel.from_pretrained(args.model, config=config)
+    model = AutoModel.from_pretrained(args.model, config=config).cuda()
     tokenizer = AutoTokenizer.from_pretrained(args.model)
+
+    print(f"[*] Config\n{config}\n")
 
     dataset = [args.source_lang_dataset ]+ args.target_lang_list
     verbose = 0
@@ -153,4 +163,3 @@ if __name__ == "__main__":
     report_file = Path(args.report_dir)/f"{metric}-similarity-{src_lang}-trg.json"
     json.dump(report, open(report_file, "w"), indent=4, sort_keys=True)
     print(f"Similarity saved in {report_file}")
-

@@ -1,0 +1,2890 @@
+{
+    "en_pud-ar_pud": {
+        "layer_0": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.6806431661133909,
+            "cka_n_batch": 4,
+            "cka_std": 0.000981450499618431
+        },
+        "layer_1": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7314079711916346,
+            "cka_n_batch": 4,
+            "cka_std": 0.0011306820609137086
+        },
+        "layer_10": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8281796634421876,
+            "cka_n_batch": 4,
+            "cka_std": 0.0009630757394374174
+        },
+        "layer_11": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8437365105675839,
+            "cka_n_batch": 4,
+            "cka_std": 0.0007931580089647865
+        },
+        "layer_12": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8109895483987459,
+            "cka_n_batch": 4,
+            "cka_std": 0.000709944531124278
+        },
+        "layer_13": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7813083048531646,
+            "cka_n_batch": 4,
+            "cka_std": 0.0006371291268019648
+        },
+        "layer_14": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7551414988056984,
+            "cka_n_batch": 4,
+            "cka_std": 0.0006160138031392592
+        },
+        "layer_15": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7653009300929566,
+            "cka_n_batch": 4,
+            "cka_std": 0.0005923517965775872
+        },
+        "layer_16": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7739663609909017,
+            "cka_n_batch": 4,
+            "cka_std": 0.0005475142774890976
+        },
+        "layer_17": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.781980185013556,
+            "cka_n_batch": 4,
+            "cka_std": 0.0005535518142626342
+        },
+        "layer_18": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7733443927070638,
+            "cka_n_batch": 4,
+            "cka_std": 0.0006676616314500551
+        },
+        "layer_19": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7735917101928312,
+            "cka_n_batch": 4,
+            "cka_std": 0.0006472505105086629
+        },
+        "layer_2": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7292919710180404,
+            "cka_n_batch": 4,
+            "cka_std": 0.0012909034073378175
+        },
+        "layer_20": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7168134737467697,
+            "cka_n_batch": 4,
+            "cka_std": 0.000969100348882356
+        },
+        "layer_21": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7520314327010836,
+            "cka_n_batch": 4,
+            "cka_std": 0.000898198198447648
+        },
+        "layer_22": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.6312824288455836,
+            "cka_n_batch": 4,
+            "cka_std": 0.0009831215927923762
+        },
+        "layer_23": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.563821448492988,
+            "cka_n_batch": 4,
+            "cka_std": 0.000998822243557268
+        },
+        "layer_24": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.5281444040509731,
+            "cka_n_batch": 4,
+            "cka_std": 0.0008065974514498437
+        },
+        "layer_3": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.733261056831818,
+            "cka_n_batch": 4,
+            "cka_std": 0.0010839595039090128
+        },
+        "layer_4": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7343709218269733,
+            "cka_n_batch": 4,
+            "cka_std": 0.0011798086459756478
+        },
+        "layer_5": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7445578483420411,
+            "cka_n_batch": 4,
+            "cka_std": 0.0011461207376105994
+        },
+        "layer_6": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7525554375339962,
+            "cka_n_batch": 4,
+            "cka_std": 0.0013937460021477036
+        },
+        "layer_7": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7648433393311644,
+            "cka_n_batch": 4,
+            "cka_std": 0.001464042711435747
+        },
+        "layer_8": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7867910883415863,
+            "cka_n_batch": 4,
+            "cka_std": 0.001272249376665197
+        },
+        "layer_9": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.814202215853475,
+            "cka_n_batch": 4,
+            "cka_std": 0.0009468632502776061
+        }
+    },
+    "en_pud-cs_pud": {
+        "layer_0": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7041669712949779,
+            "cka_n_batch": 4,
+            "cka_std": 0.000639011592718345
+        },
+        "layer_1": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7603102025081195,
+            "cka_n_batch": 4,
+            "cka_std": 0.0006295907829337293
+        },
+        "layer_10": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8398389636372906,
+            "cka_n_batch": 4,
+            "cka_std": 0.0006463499885934973
+        },
+        "layer_11": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8498424766866761,
+            "cka_n_batch": 4,
+            "cka_std": 0.0005751172389012336
+        },
+        "layer_12": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8125385222577999,
+            "cka_n_batch": 4,
+            "cka_std": 0.0007522499748103781
+        },
+        "layer_13": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7773644557237703,
+            "cka_n_batch": 4,
+            "cka_std": 0.0009700649162174496
+        },
+        "layer_14": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7461429365570363,
+            "cka_n_batch": 4,
+            "cka_std": 0.0011141775589475027
+        },
+        "layer_15": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.756916119070624,
+            "cka_n_batch": 4,
+            "cka_std": 0.0011268268774772862
+        },
+        "layer_16": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.771391220131691,
+            "cka_n_batch": 4,
+            "cka_std": 0.0010043257482779957
+        },
+        "layer_17": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7872953575724455,
+            "cka_n_batch": 4,
+            "cka_std": 0.001040768004985323
+        },
+        "layer_18": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7755485338011555,
+            "cka_n_batch": 4,
+            "cka_std": 0.0009492046688998371
+        },
+        "layer_19": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7710796414160525,
+            "cka_n_batch": 4,
+            "cka_std": 0.000769615516229027
+        },
+        "layer_2": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.762755851215533,
+            "cka_n_batch": 4,
+            "cka_std": 0.0006769721484387797
+        },
+        "layer_20": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7311864701192201,
+            "cka_n_batch": 4,
+            "cka_std": 0.0012623065081098605
+        },
+        "layer_21": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7727175120275929,
+            "cka_n_batch": 4,
+            "cka_std": 0.0009464655439906271
+        },
+        "layer_22": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.656374159052083,
+            "cka_n_batch": 4,
+            "cka_std": 0.001323072595705045
+        },
+        "layer_23": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.5937435711868881,
+            "cka_n_batch": 4,
+            "cka_std": 0.001278512180343839
+        },
+        "layer_24": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.5462141328083925,
+            "cka_n_batch": 4,
+            "cka_std": 0.0024141401424972826
+        },
+        "layer_3": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7675042255866504,
+            "cka_n_batch": 4,
+            "cka_std": 0.0006471855375443819
+        },
+        "layer_4": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7581561668704797,
+            "cka_n_batch": 4,
+            "cka_std": 0.0006329641375189231
+        },
+        "layer_5": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7665755231371344,
+            "cka_n_batch": 4,
+            "cka_std": 0.0007133456608234523
+        },
+        "layer_6": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7727483994320677,
+            "cka_n_batch": 4,
+            "cka_std": 0.0007413482565416898
+        },
+        "layer_7": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7853147665974595,
+            "cka_n_batch": 4,
+            "cka_std": 0.0007879032845576069
+        },
+        "layer_8": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8055250929944184,
+            "cka_n_batch": 4,
+            "cka_std": 0.0008110719115653399
+        },
+        "layer_9": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8285045057772646,
+            "cka_n_batch": 4,
+            "cka_std": 0.0006906744010277853
+        }
+    },
+    "en_pud-de_pud": {
+        "layer_0": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7252343544111491,
+            "cka_n_batch": 4,
+            "cka_std": 0.0007035976822499549
+        },
+        "layer_1": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7945299080127946,
+            "cka_n_batch": 4,
+            "cka_std": 0.000838468160180045
+        },
+        "layer_10": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8735910458212389,
+            "cka_n_batch": 4,
+            "cka_std": 0.0007657732811190379
+        },
+        "layer_11": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8857091602241565,
+            "cka_n_batch": 4,
+            "cka_std": 0.0006671230601243977
+        },
+        "layer_12": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8613448187315202,
+            "cka_n_batch": 4,
+            "cka_std": 0.0006180937048220821
+        },
+        "layer_13": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8275382410329967,
+            "cka_n_batch": 4,
+            "cka_std": 0.0005358163553843439
+        },
+        "layer_14": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8001348865950018,
+            "cka_n_batch": 4,
+            "cka_std": 0.0004937902901738789
+        },
+        "layer_15": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8062803737017482,
+            "cka_n_batch": 4,
+            "cka_std": 0.000571041446621792
+        },
+        "layer_16": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8180210155249263,
+            "cka_n_batch": 4,
+            "cka_std": 0.000589143711649671
+        },
+        "layer_17": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8294159104468043,
+            "cka_n_batch": 4,
+            "cka_std": 0.0005826260435420565
+        },
+        "layer_18": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8292312035036993,
+            "cka_n_batch": 4,
+            "cka_std": 0.0006546837084552389
+        },
+        "layer_19": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8377446998143179,
+            "cka_n_batch": 4,
+            "cka_std": 0.00102179780796688
+        },
+        "layer_2": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8035266249183849,
+            "cka_n_batch": 4,
+            "cka_std": 0.0010001046330277421
+        },
+        "layer_20": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7729068302602011,
+            "cka_n_batch": 4,
+            "cka_std": 0.0008227079569514061
+        },
+        "layer_21": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8082070182586457,
+            "cka_n_batch": 4,
+            "cka_std": 0.0007966223988723473
+        },
+        "layer_22": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7047190355399957,
+            "cka_n_batch": 4,
+            "cka_std": 0.001119276545666098
+        },
+        "layer_23": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.6182075632697034,
+            "cka_n_batch": 4,
+            "cka_std": 0.0014269555307869328
+        },
+        "layer_24": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.6160105795147204,
+            "cka_n_batch": 4,
+            "cka_std": 0.0019065575254845575
+        },
+        "layer_3": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8066187764930307,
+            "cka_n_batch": 4,
+            "cka_std": 0.0011419237485590958
+        },
+        "layer_4": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.803630667426724,
+            "cka_n_batch": 4,
+            "cka_std": 0.0010148487087655465
+        },
+        "layer_5": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8132442947781586,
+            "cka_n_batch": 4,
+            "cka_std": 0.0010029600281926062
+        },
+        "layer_6": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8168442252643817,
+            "cka_n_batch": 4,
+            "cka_std": 0.0008095292631480244
+        },
+        "layer_7": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8233743947608729,
+            "cka_n_batch": 4,
+            "cka_std": 0.0008626066502201639
+        },
+        "layer_8": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8384206479497818,
+            "cka_n_batch": 4,
+            "cka_std": 0.0008228318753942311
+        },
+        "layer_9": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8621059655846242,
+            "cka_n_batch": 4,
+            "cka_std": 0.0007628259108443475
+        }
+    },
+    "en_pud-es_pud": {
+        "layer_0": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7259380267452182,
+            "cka_n_batch": 4,
+            "cka_std": 0.0011012437132522
+        },
+        "layer_1": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.788971758668569,
+            "cka_n_batch": 4,
+            "cka_std": 0.0008826780637727136
+        },
+        "layer_10": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8668304494658512,
+            "cka_n_batch": 4,
+            "cka_std": 0.0004289900354959932
+        },
+        "layer_11": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8782983402362313,
+            "cka_n_batch": 4,
+            "cka_std": 0.00037638577893331907
+        },
+        "layer_12": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8400545374172608,
+            "cka_n_batch": 4,
+            "cka_std": 0.000396287174204561
+        },
+        "layer_13": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7856732434183545,
+            "cka_n_batch": 4,
+            "cka_std": 0.0007142621939403533
+        },
+        "layer_14": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7621914725912637,
+            "cka_n_batch": 4,
+            "cka_std": 0.0007287302709976693
+        },
+        "layer_15": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.770067034404883,
+            "cka_n_batch": 4,
+            "cka_std": 0.0006122132613827871
+        },
+        "layer_16": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7835388146567828,
+            "cka_n_batch": 4,
+            "cka_std": 0.0005412164175267232
+        },
+        "layer_17": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8001218165592694,
+            "cka_n_batch": 4,
+            "cka_std": 0.0005347922530991693
+        },
+        "layer_18": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8001018166489081,
+            "cka_n_batch": 4,
+            "cka_std": 0.00072278590623648
+        },
+        "layer_19": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8054737343176271,
+            "cka_n_batch": 4,
+            "cka_std": 0.0006030340823551053
+        },
+        "layer_2": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7938684830904827,
+            "cka_n_batch": 4,
+            "cka_std": 0.0008777592368860016
+        },
+        "layer_20": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7478823702091508,
+            "cka_n_batch": 4,
+            "cka_std": 0.0014778906737070389
+        },
+        "layer_21": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7969467913257096,
+            "cka_n_batch": 4,
+            "cka_std": 0.0010762441241110453
+        },
+        "layer_22": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.699432924940453,
+            "cka_n_batch": 4,
+            "cka_std": 0.0012743685583544364
+        },
+        "layer_23": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.6301925117242553,
+            "cka_n_batch": 4,
+            "cka_std": 0.001416225087244264
+        },
+        "layer_24": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.6074784902856495,
+            "cka_n_batch": 4,
+            "cka_std": 0.0009469060366827682
+        },
+        "layer_3": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7950668948761177,
+            "cka_n_batch": 4,
+            "cka_std": 0.0008332800258996167
+        },
+        "layer_4": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7901538788494183,
+            "cka_n_batch": 4,
+            "cka_std": 0.0007516196627658706
+        },
+        "layer_5": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8001554957125206,
+            "cka_n_batch": 4,
+            "cka_std": 0.0006423617053595566
+        },
+        "layer_6": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8092412507958991,
+            "cka_n_batch": 4,
+            "cka_std": 0.0006299549455627592
+        },
+        "layer_7": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.818742600335158,
+            "cka_n_batch": 4,
+            "cka_std": 0.0005466702592408246
+        },
+        "layer_8": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8330694261136059,
+            "cka_n_batch": 4,
+            "cka_std": 0.0005889843481367451
+        },
+        "layer_9": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8560369293179569,
+            "cka_n_batch": 4,
+            "cka_std": 0.0004873034438618294
+        }
+    },
+    "en_pud-fi_pud": {
+        "layer_0": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.721691497743831,
+            "cka_n_batch": 4,
+            "cka_std": 0.0005789811036933191
+        },
+        "layer_1": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7764396339119723,
+            "cka_n_batch": 4,
+            "cka_std": 0.0009192395814151568
+        },
+        "layer_10": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.863274008577677,
+            "cka_n_batch": 4,
+            "cka_std": 0.0008721256977985204
+        },
+        "layer_11": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8774479987944268,
+            "cka_n_batch": 4,
+            "cka_std": 0.0007155058823198642
+        },
+        "layer_12": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8616552798874837,
+            "cka_n_batch": 4,
+            "cka_std": 0.0005706606433888093
+        },
+        "layer_13": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8277078069490085,
+            "cka_n_batch": 4,
+            "cka_std": 0.0007198084359069082
+        },
+        "layer_14": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8121450114280876,
+            "cka_n_batch": 4,
+            "cka_std": 0.001028374228737269
+        },
+        "layer_15": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8158630245688936,
+            "cka_n_batch": 4,
+            "cka_std": 0.0009312652599270695
+        },
+        "layer_16": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8210689211346313,
+            "cka_n_batch": 4,
+            "cka_std": 0.0009560300379344697
+        },
+        "layer_17": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8302644046571743,
+            "cka_n_batch": 4,
+            "cka_std": 0.0008261908199717577
+        },
+        "layer_18": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8171446607863093,
+            "cka_n_batch": 4,
+            "cka_std": 0.0012442583545384605
+        },
+        "layer_19": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8145152792658992,
+            "cka_n_batch": 4,
+            "cka_std": 0.0014442973683658734
+        },
+        "layer_2": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7842135287436778,
+            "cka_n_batch": 4,
+            "cka_std": 0.0013235802425684536
+        },
+        "layer_20": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7712764503249501,
+            "cka_n_batch": 4,
+            "cka_std": 0.0011165292112285123
+        },
+        "layer_21": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8038836220962241,
+            "cka_n_batch": 4,
+            "cka_std": 0.0007730285211986499
+        },
+        "layer_22": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7146900075307403,
+            "cka_n_batch": 4,
+            "cka_std": 0.0010209873194446193
+        },
+        "layer_23": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.6592218258684349,
+            "cka_n_batch": 4,
+            "cka_std": 0.0010735859030764627
+        },
+        "layer_24": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.5727954795347405,
+            "cka_n_batch": 4,
+            "cka_std": 0.0008690192529688884
+        },
+        "layer_3": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.77869949865498,
+            "cka_n_batch": 4,
+            "cka_std": 0.0013016330678777856
+        },
+        "layer_4": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7805279846385944,
+            "cka_n_batch": 4,
+            "cka_std": 0.0013158431066463447
+        },
+        "layer_5": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7877608514387286,
+            "cka_n_batch": 4,
+            "cka_std": 0.0014402849192427154
+        },
+        "layer_6": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7966038918507963,
+            "cka_n_batch": 4,
+            "cka_std": 0.0011511445130661516
+        },
+        "layer_7": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8085098293607834,
+            "cka_n_batch": 4,
+            "cka_std": 0.0012131088205406379
+        },
+        "layer_8": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8268633234969743,
+            "cka_n_batch": 4,
+            "cka_std": 0.0012248254678598294
+        },
+        "layer_9": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8488439278405633,
+            "cka_n_batch": 4,
+            "cka_std": 0.0009628871187244993
+        }
+    },
+    "en_pud-fr_pud": {
+        "layer_0": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.682601945320011,
+            "cka_n_batch": 4,
+            "cka_std": 0.0009130474631628955
+        },
+        "layer_1": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7607054503488426,
+            "cka_n_batch": 4,
+            "cka_std": 0.000904453404629276
+        },
+        "layer_10": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8655875751518323,
+            "cka_n_batch": 4,
+            "cka_std": 0.0005128304307659111
+        },
+        "layer_11": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8808274256580213,
+            "cka_n_batch": 4,
+            "cka_std": 0.0003971778003892653
+        },
+        "layer_12": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8593453243372244,
+            "cka_n_batch": 4,
+            "cka_std": 0.0005609208911387314
+        },
+        "layer_13": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8281831640217154,
+            "cka_n_batch": 4,
+            "cka_std": 0.0007126758547267403
+        },
+        "layer_14": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8022595359158472,
+            "cka_n_batch": 4,
+            "cka_std": 0.0008696556560351373
+        },
+        "layer_15": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8093188885305576,
+            "cka_n_batch": 4,
+            "cka_std": 0.0008466188820177247
+        },
+        "layer_16": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8160097747685919,
+            "cka_n_batch": 4,
+            "cka_std": 0.0007066467469252422
+        },
+        "layer_17": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8267320244340918,
+            "cka_n_batch": 4,
+            "cka_std": 0.0006805496888778367
+        },
+        "layer_18": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8247619052494606,
+            "cka_n_batch": 4,
+            "cka_std": 0.0007381163078105289
+        },
+        "layer_19": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.827722444572625,
+            "cka_n_batch": 4,
+            "cka_std": 0.000603473442886711
+        },
+        "layer_2": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7748163745820648,
+            "cka_n_batch": 4,
+            "cka_std": 0.0007321991428597697
+        },
+        "layer_20": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.765215811253746,
+            "cka_n_batch": 4,
+            "cka_std": 0.001060217420196841
+        },
+        "layer_21": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.798017694856556,
+            "cka_n_batch": 4,
+            "cka_std": 0.0009332538273479097
+        },
+        "layer_22": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7025488628563393,
+            "cka_n_batch": 4,
+            "cka_std": 0.0012292887706377448
+        },
+        "layer_23": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.635291841909774,
+            "cka_n_batch": 4,
+            "cka_std": 0.0014367583835769783
+        },
+        "layer_24": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.5715831602615217,
+            "cka_n_batch": 4,
+            "cka_std": 0.0011262687602903363
+        },
+        "layer_3": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7773496601118858,
+            "cka_n_batch": 4,
+            "cka_std": 0.0007096934158183546
+        },
+        "layer_4": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7765060255848649,
+            "cka_n_batch": 4,
+            "cka_std": 0.0007222368845354041
+        },
+        "layer_5": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7938840313436046,
+            "cka_n_batch": 4,
+            "cka_std": 0.0006662836868621337
+        },
+        "layer_6": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8017403638678144,
+            "cka_n_batch": 4,
+            "cka_std": 0.0007442801686481725
+        },
+        "layer_7": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8158762858044213,
+            "cka_n_batch": 4,
+            "cka_std": 0.0006307151920165628
+        },
+        "layer_8": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8335288796020023,
+            "cka_n_batch": 4,
+            "cka_std": 0.0006655569252786576
+        },
+        "layer_9": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.856058829211644,
+            "cka_n_batch": 4,
+            "cka_std": 0.000547033632236623
+        }
+    },
+    "en_pud-hi_pud": {
+        "layer_0": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7330880857413093,
+            "cka_n_batch": 4,
+            "cka_std": 0.0008446570010992641
+        },
+        "layer_1": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7788735570347075,
+            "cka_n_batch": 4,
+            "cka_std": 0.0008970738270283289
+        },
+        "layer_10": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8474468448539659,
+            "cka_n_batch": 4,
+            "cka_std": 0.0007929619343314643
+        },
+        "layer_11": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8596146539996202,
+            "cka_n_batch": 4,
+            "cka_std": 0.0006867936415172947
+        },
+        "layer_12": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8351618608148066,
+            "cka_n_batch": 4,
+            "cka_std": 0.0007395008601765859
+        },
+        "layer_13": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7961418419350668,
+            "cka_n_batch": 4,
+            "cka_std": 0.0008129217366499064
+        },
+        "layer_14": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7898448595921429,
+            "cka_n_batch": 4,
+            "cka_std": 0.0008153775301178943
+        },
+        "layer_15": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7917623009172863,
+            "cka_n_batch": 4,
+            "cka_std": 0.0007992291812385896
+        },
+        "layer_16": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7959991133816315,
+            "cka_n_batch": 4,
+            "cka_std": 0.0006548159678507475
+        },
+        "layer_17": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8026987359481972,
+            "cka_n_batch": 4,
+            "cka_std": 0.0005743503613248273
+        },
+        "layer_18": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7919861358839648,
+            "cka_n_batch": 4,
+            "cka_std": 0.0005607639515176966
+        },
+        "layer_19": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7824011765453327,
+            "cka_n_batch": 4,
+            "cka_std": 0.0008352151862457056
+        },
+        "layer_2": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7819849864213843,
+            "cka_n_batch": 4,
+            "cka_std": 0.0008328807243610608
+        },
+        "layer_20": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7349975239096775,
+            "cka_n_batch": 4,
+            "cka_std": 0.0008977985689352068
+        },
+        "layer_21": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7696765538221186,
+            "cka_n_batch": 4,
+            "cka_std": 0.0008421476294581913
+        },
+        "layer_22": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.6788952330775275,
+            "cka_n_batch": 4,
+            "cka_std": 0.0010529516101913732
+        },
+        "layer_23": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.6056960928107676,
+            "cka_n_batch": 4,
+            "cka_std": 0.001180824535347415
+        },
+        "layer_24": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.5804562567532117,
+            "cka_n_batch": 4,
+            "cka_std": 0.0012977792627292325
+        },
+        "layer_3": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7762502480587163,
+            "cka_n_batch": 4,
+            "cka_std": 0.0008561693373852673
+        },
+        "layer_4": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7688785745811139,
+            "cka_n_batch": 4,
+            "cka_std": 0.000951330933042093
+        },
+        "layer_5": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7786334439636972,
+            "cka_n_batch": 4,
+            "cka_std": 0.0009160491682465315
+        },
+        "layer_6": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7851003205120959,
+            "cka_n_batch": 4,
+            "cka_std": 0.0009334282432873309
+        },
+        "layer_7": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.795497305368809,
+            "cka_n_batch": 4,
+            "cka_std": 0.000881489959987364
+        },
+        "layer_8": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8148318018886727,
+            "cka_n_batch": 4,
+            "cka_std": 0.0008715780452108734
+        },
+        "layer_9": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8351460935370331,
+            "cka_n_batch": 4,
+            "cka_std": 0.000782279457237269
+        }
+    },
+    "en_pud-id_pud": {
+        "layer_0": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7048944370237338,
+            "cka_n_batch": 4,
+            "cka_std": 0.000453742972597045
+        },
+        "layer_1": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7780998582822654,
+            "cka_n_batch": 4,
+            "cka_std": 0.0005527786929851757
+        },
+        "layer_10": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8828517825638588,
+            "cka_n_batch": 4,
+            "cka_std": 0.00041210319694392285
+        },
+        "layer_11": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8909916323936455,
+            "cka_n_batch": 4,
+            "cka_std": 0.00039994860732866713
+        },
+        "layer_12": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8499288446767003,
+            "cka_n_batch": 4,
+            "cka_std": 0.0010747827571413562
+        },
+        "layer_13": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.819610561440654,
+            "cka_n_batch": 4,
+            "cka_std": 0.001375357076978095
+        },
+        "layer_14": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7946640975573241,
+            "cka_n_batch": 4,
+            "cka_std": 0.0018744433581776986
+        },
+        "layer_15": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7967245959478134,
+            "cka_n_batch": 4,
+            "cka_std": 0.001569751761431077
+        },
+        "layer_16": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.805447144317336,
+            "cka_n_batch": 4,
+            "cka_std": 0.00139714093266236
+        },
+        "layer_17": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8200865909824941,
+            "cka_n_batch": 4,
+            "cka_std": 0.001111956172257098
+        },
+        "layer_18": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8214211594080475,
+            "cka_n_batch": 4,
+            "cka_std": 0.0013278106843916282
+        },
+        "layer_19": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8205497643461269,
+            "cka_n_batch": 4,
+            "cka_std": 0.0011894982798972547
+        },
+        "layer_2": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7913936953543438,
+            "cka_n_batch": 4,
+            "cka_std": 0.000489693005269254
+        },
+        "layer_20": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7707215141365353,
+            "cka_n_batch": 4,
+            "cka_std": 0.0009326773143392643
+        },
+        "layer_21": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7978755730116617,
+            "cka_n_batch": 4,
+            "cka_std": 0.0010016762799819432
+        },
+        "layer_22": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.6985196259538099,
+            "cka_n_batch": 4,
+            "cka_std": 0.001856079536391709
+        },
+        "layer_23": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.6371068023732525,
+            "cka_n_batch": 4,
+            "cka_std": 0.002041204413348338
+        },
+        "layer_24": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.6058643540085884,
+            "cka_n_batch": 4,
+            "cka_std": 0.0011934865911267876
+        },
+        "layer_3": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7842629343635578,
+            "cka_n_batch": 4,
+            "cka_std": 0.000545092307196249
+        },
+        "layer_4": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7657404060515831,
+            "cka_n_batch": 4,
+            "cka_std": 0.0005232280142184541
+        },
+        "layer_5": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7820221877067876,
+            "cka_n_batch": 4,
+            "cka_std": 0.00047206254718025335
+        },
+        "layer_6": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.800125788688732,
+            "cka_n_batch": 4,
+            "cka_std": 0.00048531069766572963
+        },
+        "layer_7": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8203650905924065,
+            "cka_n_batch": 4,
+            "cka_std": 0.0004887405149643369
+        },
+        "layer_8": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8463081500919396,
+            "cka_n_batch": 4,
+            "cka_std": 0.0004961722234052978
+        },
+        "layer_9": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8668152771183604,
+            "cka_n_batch": 4,
+            "cka_std": 0.00041584842747129666
+        }
+    },
+    "en_pud-is_pud": {
+        "layer_0": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.6829590304988474,
+            "cka_n_batch": 4,
+            "cka_std": 0.0008441979530328782
+        },
+        "layer_1": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7502750374110931,
+            "cka_n_batch": 4,
+            "cka_std": 0.0008848221990691383
+        },
+        "layer_10": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8456434286627098,
+            "cka_n_batch": 4,
+            "cka_std": 0.0005119555195987461
+        },
+        "layer_11": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8560597209783587,
+            "cka_n_batch": 4,
+            "cka_std": 0.000513097008976816
+        },
+        "layer_12": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8048112826063194,
+            "cka_n_batch": 4,
+            "cka_std": 0.000700727579071135
+        },
+        "layer_13": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7388423302033889,
+            "cka_n_batch": 4,
+            "cka_std": 0.0007371802941589012
+        },
+        "layer_14": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7456017515859772,
+            "cka_n_batch": 4,
+            "cka_std": 0.0006874987179865712
+        },
+        "layer_15": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7522724620573602,
+            "cka_n_batch": 4,
+            "cka_std": 0.0008192902125572889
+        },
+        "layer_16": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7619526363461635,
+            "cka_n_batch": 4,
+            "cka_std": 0.0007911265914406033
+        },
+        "layer_17": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7774047899470671,
+            "cka_n_batch": 4,
+            "cka_std": 0.0006841686111186738
+        },
+        "layer_18": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7873998757364264,
+            "cka_n_batch": 4,
+            "cka_std": 0.0007600654723339564
+        },
+        "layer_19": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.774546163763693,
+            "cka_n_batch": 4,
+            "cka_std": 0.0012527873743749065
+        },
+        "layer_2": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7440982104500364,
+            "cka_n_batch": 4,
+            "cka_std": 0.0009363571681431089
+        },
+        "layer_20": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7329737679029261,
+            "cka_n_batch": 4,
+            "cka_std": 0.0010966513379584322
+        },
+        "layer_21": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7535962108131035,
+            "cka_n_batch": 4,
+            "cka_std": 0.0009839513783566631
+        },
+        "layer_22": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.6206884015557159,
+            "cka_n_batch": 4,
+            "cka_std": 0.0013601749809714649
+        },
+        "layer_23": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.5790552666109705,
+            "cka_n_batch": 4,
+            "cka_std": 0.0013390389726732977
+        },
+        "layer_24": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.5105427263208174,
+            "cka_n_batch": 4,
+            "cka_std": 0.001237244588883897
+        },
+        "layer_3": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7442068450549024,
+            "cka_n_batch": 4,
+            "cka_std": 0.0008681149062772015
+        },
+        "layer_4": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7359251598039336,
+            "cka_n_batch": 4,
+            "cka_std": 0.0008328801659045881
+        },
+        "layer_5": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7468319459486144,
+            "cka_n_batch": 4,
+            "cka_std": 0.0007732304061199454
+        },
+        "layer_6": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7579549881624439,
+            "cka_n_batch": 4,
+            "cka_std": 0.0007069580022258057
+        },
+        "layer_7": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7770823282652666,
+            "cka_n_batch": 4,
+            "cka_std": 0.0006237810298426323
+        },
+        "layer_8": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8014255301510124,
+            "cka_n_batch": 4,
+            "cka_std": 0.0005888883087816229
+        },
+        "layer_9": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8291378933389641,
+            "cka_n_batch": 4,
+            "cka_std": 0.00046860289603275763
+        }
+    },
+    "en_pud-it_pud": {
+        "layer_0": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7270939830773198,
+            "cka_n_batch": 4,
+            "cka_std": 0.0007711382460228362
+        },
+        "layer_1": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.777926471003602,
+            "cka_n_batch": 4,
+            "cka_std": 0.0008218354087795998
+        },
+        "layer_10": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8618477269867801,
+            "cka_n_batch": 4,
+            "cka_std": 0.0004422542095217201
+        },
+        "layer_11": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8704783254811203,
+            "cka_n_batch": 4,
+            "cka_std": 0.0003154433464168245
+        },
+        "layer_12": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8546754447790602,
+            "cka_n_batch": 4,
+            "cka_std": 0.0003379626094603835
+        },
+        "layer_13": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8244831340243107,
+            "cka_n_batch": 4,
+            "cka_std": 0.0004230001285208361
+        },
+        "layer_14": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8029298605411763,
+            "cka_n_batch": 4,
+            "cka_std": 0.00048573464542896026
+        },
+        "layer_15": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8091619269684862,
+            "cka_n_batch": 4,
+            "cka_std": 0.00041819134047531796
+        },
+        "layer_16": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8194545775140123,
+            "cka_n_batch": 4,
+            "cka_std": 0.00037785217504450843
+        },
+        "layer_17": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8302271966432659,
+            "cka_n_batch": 4,
+            "cka_std": 0.0005259247053780991
+        },
+        "layer_18": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8230196369394229,
+            "cka_n_batch": 4,
+            "cka_std": 0.0008070571671767174
+        },
+        "layer_19": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8296434906061944,
+            "cka_n_batch": 4,
+            "cka_std": 0.00048043074368075766
+        },
+        "layer_2": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7843152544583541,
+            "cka_n_batch": 4,
+            "cka_std": 0.0008047237755657667
+        },
+        "layer_20": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7846504365954452,
+            "cka_n_batch": 4,
+            "cka_std": 0.0007595836437191413
+        },
+        "layer_21": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8119461409648553,
+            "cka_n_batch": 4,
+            "cka_std": 0.0005401375414637772
+        },
+        "layer_22": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7088290510355122,
+            "cka_n_batch": 4,
+            "cka_std": 0.0008667346306165883
+        },
+        "layer_23": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.648915304115501,
+            "cka_n_batch": 4,
+            "cka_std": 0.0010024861780419103
+        },
+        "layer_24": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.5480197616453865,
+            "cka_n_batch": 4,
+            "cka_std": 0.0006191174688349936
+        },
+        "layer_3": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7864397794886824,
+            "cka_n_batch": 4,
+            "cka_std": 0.000737327802947217
+        },
+        "layer_4": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7844975632468412,
+            "cka_n_batch": 4,
+            "cka_std": 0.0007593180277549065
+        },
+        "layer_5": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7959765079800292,
+            "cka_n_batch": 4,
+            "cka_std": 0.0007198205837464801
+        },
+        "layer_6": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8021027913430246,
+            "cka_n_batch": 4,
+            "cka_std": 0.0007334880717795973
+        },
+        "layer_7": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8124309590738739,
+            "cka_n_batch": 4,
+            "cka_std": 0.0005392731996067225
+        },
+        "layer_8": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8287747527996736,
+            "cka_n_batch": 4,
+            "cka_std": 0.0005987201537863367
+        },
+        "layer_9": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8517847835908867,
+            "cka_n_batch": 4,
+            "cka_std": 0.0004812755607145022
+        }
+    },
+    "en_pud-ja_pud": {
+        "layer_0": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.688610266944298,
+            "cka_n_batch": 4,
+            "cka_std": 0.0016226465686909725
+        },
+        "layer_1": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7251438448582116,
+            "cka_n_batch": 4,
+            "cka_std": 0.001270285913036139
+        },
+        "layer_10": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8237710783078289,
+            "cka_n_batch": 4,
+            "cka_std": 0.0013696404701273519
+        },
+        "layer_11": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8447048725832521,
+            "cka_n_batch": 4,
+            "cka_std": 0.0012225919155613905
+        },
+        "layer_12": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8284806682024537,
+            "cka_n_batch": 4,
+            "cka_std": 0.0011117513706632167
+        },
+        "layer_13": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7939298011824582,
+            "cka_n_batch": 4,
+            "cka_std": 0.0009708208355893041
+        },
+        "layer_14": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7765752249348119,
+            "cka_n_batch": 4,
+            "cka_std": 0.0009825046966408775
+        },
+        "layer_15": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7767241350607605,
+            "cka_n_batch": 4,
+            "cka_std": 0.0009623266285337744
+        },
+        "layer_16": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7833619373218638,
+            "cka_n_batch": 4,
+            "cka_std": 0.000922131617336466
+        },
+        "layer_17": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7906075751065937,
+            "cka_n_batch": 4,
+            "cka_std": 0.0009057820876644944
+        },
+        "layer_18": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.77191159121287,
+            "cka_n_batch": 4,
+            "cka_std": 0.0009283719187325343
+        },
+        "layer_19": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.783263487393782,
+            "cka_n_batch": 4,
+            "cka_std": 0.000809331226460714
+        },
+        "layer_2": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7270090522160275,
+            "cka_n_batch": 4,
+            "cka_std": 0.0015365211598686948
+        },
+        "layer_20": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.6999537285362286,
+            "cka_n_batch": 4,
+            "cka_std": 0.0008697858005169486
+        },
+        "layer_21": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7369844362163847,
+            "cka_n_batch": 4,
+            "cka_std": 0.0008064075309503422
+        },
+        "layer_22": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.6180366804786923,
+            "cka_n_batch": 4,
+            "cka_std": 0.0009787658057162079
+        },
+        "layer_23": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.5424319614294527,
+            "cka_n_batch": 4,
+            "cka_std": 0.0010370343575629235
+        },
+        "layer_24": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.5590283582598824,
+            "cka_n_batch": 4,
+            "cka_std": 0.0011227061252193514
+        },
+        "layer_3": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7325132897068878,
+            "cka_n_batch": 4,
+            "cka_std": 0.0015785169365949401
+        },
+        "layer_4": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7328530085275947,
+            "cka_n_batch": 4,
+            "cka_std": 0.0016805036070444103
+        },
+        "layer_5": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7445351874520529,
+            "cka_n_batch": 4,
+            "cka_std": 0.0017915062173079804
+        },
+        "layer_6": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7600390696667672,
+            "cka_n_batch": 4,
+            "cka_std": 0.001601598752346021
+        },
+        "layer_7": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7657940111131074,
+            "cka_n_batch": 4,
+            "cka_std": 0.0016651320815889898
+        },
+        "layer_8": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7804727564117622,
+            "cka_n_batch": 4,
+            "cka_std": 0.0016401866974349178
+        },
+        "layer_9": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8089379024027608,
+            "cka_n_batch": 4,
+            "cka_std": 0.0014330016563029132
+        }
+    },
+    "en_pud-ko_pud": {
+        "layer_0": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.6798422493393592,
+            "cka_n_batch": 4,
+            "cka_std": 0.0006988295082700709
+        },
+        "layer_1": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7409209467045523,
+            "cka_n_batch": 4,
+            "cka_std": 0.0008976438677832655
+        },
+        "layer_10": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8286202387551636,
+            "cka_n_batch": 4,
+            "cka_std": 0.0006370880124705922
+        },
+        "layer_11": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8450497848457902,
+            "cka_n_batch": 4,
+            "cka_std": 0.0007293076109510285
+        },
+        "layer_12": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8257846033313809,
+            "cka_n_batch": 4,
+            "cka_std": 0.0008678661562857232
+        },
+        "layer_13": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7940968983602252,
+            "cka_n_batch": 4,
+            "cka_std": 0.0009912238937300555
+        },
+        "layer_14": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7676667190042556,
+            "cka_n_batch": 4,
+            "cka_std": 0.0010006547049064844
+        },
+        "layer_15": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7798073772835246,
+            "cka_n_batch": 4,
+            "cka_std": 0.0009474245662383433
+        },
+        "layer_16": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7843790007723687,
+            "cka_n_batch": 4,
+            "cka_std": 0.0009391203842652026
+        },
+        "layer_17": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7934813922545403,
+            "cka_n_batch": 4,
+            "cka_std": 0.0009548527975218382
+        },
+        "layer_18": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7913182454532763,
+            "cka_n_batch": 4,
+            "cka_std": 0.0010400125934479035
+        },
+        "layer_19": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7903444963126578,
+            "cka_n_batch": 4,
+            "cka_std": 0.001421792743566473
+        },
+        "layer_2": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7465403575344829,
+            "cka_n_batch": 4,
+            "cka_std": 0.000788121063482369
+        },
+        "layer_20": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7185556152554821,
+            "cka_n_batch": 4,
+            "cka_std": 0.0013242080108756427
+        },
+        "layer_21": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7587845479901592,
+            "cka_n_batch": 4,
+            "cka_std": 0.001015735236926063
+        },
+        "layer_22": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.6425106351817169,
+            "cka_n_batch": 4,
+            "cka_std": 0.001534401963324688
+        },
+        "layer_23": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.5653234327326876,
+            "cka_n_batch": 4,
+            "cka_std": 0.0017050903653879166
+        },
+        "layer_24": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.5251946251873507,
+            "cka_n_batch": 4,
+            "cka_std": 0.0010447403928180248
+        },
+        "layer_3": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7493301830460065,
+            "cka_n_batch": 4,
+            "cka_std": 0.0008034258692365416
+        },
+        "layer_4": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7440756610538882,
+            "cka_n_batch": 4,
+            "cka_std": 0.0007438679525516756
+        },
+        "layer_5": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7547198272524938,
+            "cka_n_batch": 4,
+            "cka_std": 0.0006984417646511152
+        },
+        "layer_6": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7602937056793008,
+            "cka_n_batch": 4,
+            "cka_std": 0.0008501550011582011
+        },
+        "layer_7": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7719664166880498,
+            "cka_n_batch": 4,
+            "cka_std": 0.0008711849206488429
+        },
+        "layer_8": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.790311933865326,
+            "cka_n_batch": 4,
+            "cka_std": 0.0008836663413457008
+        },
+        "layer_9": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8144988053870227,
+            "cka_n_batch": 4,
+            "cka_std": 0.0007221782521555162
+        }
+    },
+    "en_pud-pl_pud": {
+        "layer_0": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7019054264408306,
+            "cka_n_batch": 4,
+            "cka_std": 0.0005782828189938085
+        },
+        "layer_1": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7649073941280232,
+            "cka_n_batch": 4,
+            "cka_std": 0.000592498667201194
+        },
+        "layer_10": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.855369806956638,
+            "cka_n_batch": 4,
+            "cka_std": 0.0005806795868524275
+        },
+        "layer_11": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8680123930119182,
+            "cka_n_batch": 4,
+            "cka_std": 0.0005793634296377065
+        },
+        "layer_12": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8521898236020947,
+            "cka_n_batch": 4,
+            "cka_std": 0.0005009092109053765
+        },
+        "layer_13": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.818450884994429,
+            "cka_n_batch": 4,
+            "cka_std": 0.0006343274879997258
+        },
+        "layer_14": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8059736343271204,
+            "cka_n_batch": 4,
+            "cka_std": 0.0007085641910769973
+        },
+        "layer_15": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8094315556616511,
+            "cka_n_batch": 4,
+            "cka_std": 0.000669681730544178
+        },
+        "layer_16": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8163698441749235,
+            "cka_n_batch": 4,
+            "cka_std": 0.0006360230514878123
+        },
+        "layer_17": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8221137452838985,
+            "cka_n_batch": 4,
+            "cka_std": 0.0007165108731818911
+        },
+        "layer_18": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8154035388972275,
+            "cka_n_batch": 4,
+            "cka_std": 0.0006854560545973707
+        },
+        "layer_19": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8310312191197398,
+            "cka_n_batch": 4,
+            "cka_std": 0.0004133908088108723
+        },
+        "layer_2": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7677468945542238,
+            "cka_n_batch": 4,
+            "cka_std": 0.0006600134726743581
+        },
+        "layer_20": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7765215408448674,
+            "cka_n_batch": 4,
+            "cka_std": 0.0006148284484014281
+        },
+        "layer_21": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8087844866063453,
+            "cka_n_batch": 4,
+            "cka_std": 0.000564541627991137
+        },
+        "layer_22": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.6930797813233537,
+            "cka_n_batch": 4,
+            "cka_std": 0.0008310987352849467
+        },
+        "layer_23": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.6216740876373629,
+            "cka_n_batch": 4,
+            "cka_std": 0.0009667450246343846
+        },
+        "layer_24": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.599519519197909,
+            "cka_n_batch": 4,
+            "cka_std": 0.0020812059543937715
+        },
+        "layer_3": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7702282862873472,
+            "cka_n_batch": 4,
+            "cka_std": 0.0006315145334423854
+        },
+        "layer_4": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7688180496477024,
+            "cka_n_batch": 4,
+            "cka_std": 0.0007336735450572547
+        },
+        "layer_5": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7833954653741195,
+            "cka_n_batch": 4,
+            "cka_std": 0.0007097733240657842
+        },
+        "layer_6": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7890966246049075,
+            "cka_n_batch": 4,
+            "cka_std": 0.0007977195743601241
+        },
+        "layer_7": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.797988738304638,
+            "cka_n_batch": 4,
+            "cka_std": 0.0009184501419642906
+        },
+        "layer_8": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8142636148398983,
+            "cka_n_batch": 4,
+            "cka_std": 0.0008655335551016461
+        },
+        "layer_9": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8407510981223438,
+            "cka_n_batch": 4,
+            "cka_std": 0.0005537844804754502
+        }
+    },
+    "en_pud-pt_pud": {
+        "layer_0": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7465759274046032,
+            "cka_n_batch": 4,
+            "cka_std": 0.0006875208439026179
+        },
+        "layer_1": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8132120645231243,
+            "cka_n_batch": 4,
+            "cka_std": 0.0006721556380067799
+        },
+        "layer_10": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.9033114112611926,
+            "cka_n_batch": 4,
+            "cka_std": 0.0003930861480603035
+        },
+        "layer_11": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.9121392886998495,
+            "cka_n_batch": 4,
+            "cka_std": 0.00035346360462191117
+        },
+        "layer_12": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8806711343881287,
+            "cka_n_batch": 4,
+            "cka_std": 0.0005016397170466814
+        },
+        "layer_13": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8396877354475173,
+            "cka_n_batch": 4,
+            "cka_std": 0.0005475332641076045
+        },
+        "layer_14": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8121894821644013,
+            "cka_n_batch": 4,
+            "cka_std": 0.0006018099223339437
+        },
+        "layer_15": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8171310981619989,
+            "cka_n_batch": 4,
+            "cka_std": 0.0005506805667545455
+        },
+        "layer_16": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8285542636132736,
+            "cka_n_batch": 4,
+            "cka_std": 0.0005180704259762197
+        },
+        "layer_17": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.844850335400652,
+            "cka_n_batch": 4,
+            "cka_std": 0.0005720907676700339
+        },
+        "layer_18": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8391978391069245,
+            "cka_n_batch": 4,
+            "cka_std": 0.0006408392066757146
+        },
+        "layer_19": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8494644767083411,
+            "cka_n_batch": 4,
+            "cka_std": 0.0004358430391045233
+        },
+        "layer_2": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8179081043788303,
+            "cka_n_batch": 4,
+            "cka_std": 0.0007857940970957715
+        },
+        "layer_20": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7950735980552595,
+            "cka_n_batch": 4,
+            "cka_std": 0.0007421551187840738
+        },
+        "layer_21": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8250968909026954,
+            "cka_n_batch": 4,
+            "cka_std": 0.000653292597698174
+        },
+        "layer_22": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7311257205226225,
+            "cka_n_batch": 4,
+            "cka_std": 0.0008436527513315717
+        },
+        "layer_23": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.660185464875927,
+            "cka_n_batch": 4,
+            "cka_std": 0.0008269613941777424
+        },
+        "layer_24": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.6294130319328622,
+            "cka_n_batch": 4,
+            "cka_std": 0.0009620761330160455
+        },
+        "layer_3": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8180042783438588,
+            "cka_n_batch": 4,
+            "cka_std": 0.0007000593788558779
+        },
+        "layer_4": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.816815550830939,
+            "cka_n_batch": 4,
+            "cka_std": 0.0007393833585714281
+        },
+        "layer_5": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8297742438526976,
+            "cka_n_batch": 4,
+            "cka_std": 0.0006769718890818333
+        },
+        "layer_6": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8374373549289227,
+            "cka_n_batch": 4,
+            "cka_std": 0.0007082283276822978
+        },
+        "layer_7": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.850419943834324,
+            "cka_n_batch": 4,
+            "cka_std": 0.0004941050881695727
+        },
+        "layer_8": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8722347962997398,
+            "cka_n_batch": 4,
+            "cka_std": 0.0004601937553595504
+        },
+        "layer_9": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8914167545142259,
+            "cka_n_batch": 4,
+            "cka_std": 0.0003984815429898163
+        }
+    },
+    "en_pud-ru_pud": {
+        "layer_0": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7011014767728613,
+            "cka_n_batch": 4,
+            "cka_std": 0.0008684465074577454
+        },
+        "layer_1": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7695092037574874,
+            "cka_n_batch": 4,
+            "cka_std": 0.0012487605467364992
+        },
+        "layer_10": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8475459699234431,
+            "cka_n_batch": 4,
+            "cka_std": 0.0012959503326879828
+        },
+        "layer_11": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8607870927329921,
+            "cka_n_batch": 4,
+            "cka_std": 0.0013202246803615638
+        },
+        "layer_12": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8392227254179928,
+            "cka_n_batch": 4,
+            "cka_std": 0.0008461567271728244
+        },
+        "layer_13": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8109671083697667,
+            "cka_n_batch": 4,
+            "cka_std": 0.0007700880291706433
+        },
+        "layer_14": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7882002789011029,
+            "cka_n_batch": 4,
+            "cka_std": 0.0008088682248539472
+        },
+        "layer_15": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7963822282948723,
+            "cka_n_batch": 4,
+            "cka_std": 0.0007510804680188579
+        },
+        "layer_16": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8031984230407807,
+            "cka_n_batch": 4,
+            "cka_std": 0.0007092940051091275
+        },
+        "layer_17": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.812156104490461,
+            "cka_n_batch": 4,
+            "cka_std": 0.0006573472748633414
+        },
+        "layer_18": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8043132671564981,
+            "cka_n_batch": 4,
+            "cka_std": 0.000950560644197244
+        },
+        "layer_19": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8151541144615491,
+            "cka_n_batch": 4,
+            "cka_std": 0.0007852277397510706
+        },
+        "layer_2": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7814316037891494,
+            "cka_n_batch": 4,
+            "cka_std": 0.0014920345299078304
+        },
+        "layer_20": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7727881606967186,
+            "cka_n_batch": 4,
+            "cka_std": 0.0008171741562776841
+        },
+        "layer_21": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8019633452623335,
+            "cka_n_batch": 4,
+            "cka_std": 0.0007675435080634988
+        },
+        "layer_22": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.70361455998532,
+            "cka_n_batch": 4,
+            "cka_std": 0.0009542653618239304
+        },
+        "layer_23": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.6250894424343828,
+            "cka_n_batch": 4,
+            "cka_std": 0.0010937913672428104
+        },
+        "layer_24": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.5760083183138665,
+            "cka_n_batch": 4,
+            "cka_std": 0.0018025201147479348
+        },
+        "layer_3": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7809384711394791,
+            "cka_n_batch": 4,
+            "cka_std": 0.00145789743787233
+        },
+        "layer_4": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7819815031202095,
+            "cka_n_batch": 4,
+            "cka_std": 0.0016029634152406934
+        },
+        "layer_5": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7916278455991639,
+            "cka_n_batch": 4,
+            "cka_std": 0.0016301558507136732
+        },
+        "layer_6": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7953353311525762,
+            "cka_n_batch": 4,
+            "cka_std": 0.0015334072877205432
+        },
+        "layer_7": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8024718011948064,
+            "cka_n_batch": 4,
+            "cka_std": 0.001487316660462863
+        },
+        "layer_8": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8141885782619283,
+            "cka_n_batch": 4,
+            "cka_std": 0.0015395647647363354
+        },
+        "layer_9": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.835173526005746,
+            "cka_n_batch": 4,
+            "cka_std": 0.0013559833352357689
+        }
+    },
+    "en_pud-sv_pud": {
+        "layer_0": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7646343274905069,
+            "cka_n_batch": 4,
+            "cka_std": 0.0004994052330780365
+        },
+        "layer_1": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8289655235892546,
+            "cka_n_batch": 4,
+            "cka_std": 0.0006507118839881068
+        },
+        "layer_10": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.9108695129649537,
+            "cka_n_batch": 4,
+            "cka_std": 0.00028732666951482755
+        },
+        "layer_11": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.9148376559192157,
+            "cka_n_batch": 4,
+            "cka_std": 0.0002878880397461983
+        },
+        "layer_12": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8861356708645717,
+            "cka_n_batch": 4,
+            "cka_std": 0.0006339597776261069
+        },
+        "layer_13": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8454083960253033,
+            "cka_n_batch": 4,
+            "cka_std": 0.0014314478576392257
+        },
+        "layer_14": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8113904061386716,
+            "cka_n_batch": 4,
+            "cka_std": 0.0022186105967097296
+        },
+        "layer_15": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8198383406759617,
+            "cka_n_batch": 4,
+            "cka_std": 0.0019338095929335342
+        },
+        "layer_16": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8316020006332625,
+            "cka_n_batch": 4,
+            "cka_std": 0.0016746010839262715
+        },
+        "layer_17": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8459707006651813,
+            "cka_n_batch": 4,
+            "cka_std": 0.001566382627749332
+        },
+        "layer_18": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8427189889514524,
+            "cka_n_batch": 4,
+            "cka_std": 0.0016191174026879865
+        },
+        "layer_19": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8415264481182732,
+            "cka_n_batch": 4,
+            "cka_std": 0.0009834342185762249
+        },
+        "layer_2": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.836237819898322,
+            "cka_n_batch": 4,
+            "cka_std": 0.0005285382891414583
+        },
+        "layer_20": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8044616365561634,
+            "cka_n_batch": 4,
+            "cka_std": 0.001857506269364858
+        },
+        "layer_21": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8419716290109902,
+            "cka_n_batch": 4,
+            "cka_std": 0.0011812436179128986
+        },
+        "layer_22": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7357258210314186,
+            "cka_n_batch": 4,
+            "cka_std": 0.0016826176890970524
+        },
+        "layer_23": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.6739876209694329,
+            "cka_n_batch": 4,
+            "cka_std": 0.0013176249770150024
+        },
+        "layer_24": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.5751835611634504,
+            "cka_n_batch": 4,
+            "cka_std": 0.00223051862199607
+        },
+        "layer_3": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8374976395501924,
+            "cka_n_batch": 4,
+            "cka_std": 0.0004780688074130026
+        },
+        "layer_4": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8351335044792809,
+            "cka_n_batch": 4,
+            "cka_std": 0.000453867518252173
+        },
+        "layer_5": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8424617373612373,
+            "cka_n_batch": 4,
+            "cka_std": 0.0004067814206016609
+        },
+        "layer_6": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8472867638594499,
+            "cka_n_batch": 4,
+            "cka_std": 0.0004178290421079317
+        },
+        "layer_7": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8613173105293995,
+            "cka_n_batch": 4,
+            "cka_std": 0.00034206865574324595
+        },
+        "layer_8": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8805665772427876,
+            "cka_n_batch": 4,
+            "cka_std": 0.00035097341510601367
+        },
+        "layer_9": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8994163947741965,
+            "cka_n_batch": 4,
+            "cka_std": 0.0003106531159731842
+        }
+    },
+    "en_pud-th_pud": {
+        "layer_0": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.6940552781564426,
+            "cka_n_batch": 4,
+            "cka_std": 0.0006620674375354274
+        },
+        "layer_1": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7474220384708208,
+            "cka_n_batch": 4,
+            "cka_std": 0.0007047156530698139
+        },
+        "layer_10": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.817030524167072,
+            "cka_n_batch": 4,
+            "cka_std": 0.0006702147104266047
+        },
+        "layer_11": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8346719096145226,
+            "cka_n_batch": 4,
+            "cka_std": 0.0006134363190354467
+        },
+        "layer_12": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8157291426366894,
+            "cka_n_batch": 4,
+            "cka_std": 0.000528816997620436
+        },
+        "layer_13": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7821935709744195,
+            "cka_n_batch": 4,
+            "cka_std": 0.0004917884047121576
+        },
+        "layer_14": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7610809157208462,
+            "cka_n_batch": 4,
+            "cka_std": 0.0005922158585559746
+        },
+        "layer_15": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7549387003886383,
+            "cka_n_batch": 4,
+            "cka_std": 0.0006026935535572111
+        },
+        "layer_16": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7629868012480744,
+            "cka_n_batch": 4,
+            "cka_std": 0.0005911559298919143
+        },
+        "layer_17": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7670105097914438,
+            "cka_n_batch": 4,
+            "cka_std": 0.0006397640318894308
+        },
+        "layer_18": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7625581136022948,
+            "cka_n_batch": 4,
+            "cka_std": 0.0007144165859715533
+        },
+        "layer_19": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7637758757815849,
+            "cka_n_batch": 4,
+            "cka_std": 0.0006462656164516185
+        },
+        "layer_2": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7499046829995608,
+            "cka_n_batch": 4,
+            "cka_std": 0.0008125808494620359
+        },
+        "layer_20": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7229800681089239,
+            "cka_n_batch": 4,
+            "cka_std": 0.00134181306574829
+        },
+        "layer_21": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7517338353942362,
+            "cka_n_batch": 4,
+            "cka_std": 0.0009401602758206389
+        },
+        "layer_22": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.6676661677503182,
+            "cka_n_batch": 4,
+            "cka_std": 0.0010465130712691592
+        },
+        "layer_23": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.6211230497689629,
+            "cka_n_batch": 4,
+            "cka_std": 0.0010326132491798095
+        },
+        "layer_24": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.5534203249222436,
+            "cka_n_batch": 4,
+            "cka_std": 0.0007808078848310778
+        },
+        "layer_3": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7516615196305729,
+            "cka_n_batch": 4,
+            "cka_std": 0.0007628934293580764
+        },
+        "layer_4": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7492476364294626,
+            "cka_n_batch": 4,
+            "cka_std": 0.0006683577578958588
+        },
+        "layer_5": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.753688240916695,
+            "cka_n_batch": 4,
+            "cka_std": 0.0007425233409917498
+        },
+        "layer_6": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7527603145130377,
+            "cka_n_batch": 4,
+            "cka_std": 0.0007860719636473241
+        },
+        "layer_7": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7573283405142388,
+            "cka_n_batch": 4,
+            "cka_std": 0.0008241038982206902
+        },
+        "layer_8": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7800817164064103,
+            "cka_n_batch": 4,
+            "cka_std": 0.0008108072855881064
+        },
+        "layer_9": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8036443417287598,
+            "cka_n_batch": 4,
+            "cka_std": 0.0006469225446996671
+        }
+    },
+    "en_pud-tr_pud": {
+        "layer_0": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.6947051613634845,
+            "cka_n_batch": 4,
+            "cka_std": 0.0005533040174384765
+        },
+        "layer_1": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7578922616078427,
+            "cka_n_batch": 4,
+            "cka_std": 0.0009317103880418872
+        },
+        "layer_10": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8535785114058956,
+            "cka_n_batch": 4,
+            "cka_std": 0.00044224170041649093
+        },
+        "layer_11": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8638391101365097,
+            "cka_n_batch": 4,
+            "cka_std": 0.0003068129141433564
+        },
+        "layer_12": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8215413363507926,
+            "cka_n_batch": 4,
+            "cka_std": 0.0006839307941430367
+        },
+        "layer_13": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7746365522233951,
+            "cka_n_batch": 4,
+            "cka_std": 0.001002439256794076
+        },
+        "layer_14": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.744819682820571,
+            "cka_n_batch": 4,
+            "cka_std": 0.001035043794432856
+        },
+        "layer_15": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7623173815683859,
+            "cka_n_batch": 4,
+            "cka_std": 0.0010312858884111737
+        },
+        "layer_16": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7740460488405865,
+            "cka_n_batch": 4,
+            "cka_std": 0.0008774014209137964
+        },
+        "layer_17": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7904032389293622,
+            "cka_n_batch": 4,
+            "cka_std": 0.0006449158350867392
+        },
+        "layer_18": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7852758485604976,
+            "cka_n_batch": 4,
+            "cka_std": 0.0006022440528419344
+        },
+        "layer_19": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.773313962327744,
+            "cka_n_batch": 4,
+            "cka_std": 0.001047836731662853
+        },
+        "layer_2": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7592604533473147,
+            "cka_n_batch": 4,
+            "cka_std": 0.000626847588311823
+        },
+        "layer_20": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7229489969836882,
+            "cka_n_batch": 4,
+            "cka_std": 0.00095908230723022
+        },
+        "layer_21": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7711074364742807,
+            "cka_n_batch": 4,
+            "cka_std": 0.0007506726968007172
+        },
+        "layer_22": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.6732473382883677,
+            "cka_n_batch": 4,
+            "cka_std": 0.001156387630697499
+        },
+        "layer_23": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.6019286987097179,
+            "cka_n_batch": 4,
+            "cka_std": 0.0012892375825194204
+        },
+        "layer_24": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.5889398434898684,
+            "cka_n_batch": 4,
+            "cka_std": 0.001194408776515938
+        },
+        "layer_3": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.761958864697821,
+            "cka_n_batch": 4,
+            "cka_std": 0.0005549486787525364
+        },
+        "layer_4": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7646096227721856,
+            "cka_n_batch": 4,
+            "cka_std": 0.0004637820064435966
+        },
+        "layer_5": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7739636259897285,
+            "cka_n_batch": 4,
+            "cka_std": 0.0005969474317410204
+        },
+        "layer_6": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7839217676482184,
+            "cka_n_batch": 4,
+            "cka_std": 0.0006369832519737312
+        },
+        "layer_7": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7999326820450059,
+            "cka_n_batch": 4,
+            "cka_std": 0.000497595664122659
+        },
+        "layer_8": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8178297525338625,
+            "cka_n_batch": 4,
+            "cka_std": 0.000528161740231385
+        },
+        "layer_9": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8384360474597348,
+            "cka_n_batch": 4,
+            "cka_std": 0.0004453734999646697
+        }
+    },
+    "en_pud-zh_pud": {
+        "layer_0": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7093399205296582,
+            "cka_n_batch": 4,
+            "cka_std": 0.0008507613113642889
+        },
+        "layer_1": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7492385459425847,
+            "cka_n_batch": 4,
+            "cka_std": 0.0007911686545507862
+        },
+        "layer_10": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8347513473457691,
+            "cka_n_batch": 4,
+            "cka_std": 0.0007269854296224592
+        },
+        "layer_11": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8519740581209538,
+            "cka_n_batch": 4,
+            "cka_std": 0.0008848986732079657
+        },
+        "layer_12": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8261358848534093,
+            "cka_n_batch": 4,
+            "cka_std": 0.0008003968369535093
+        },
+        "layer_13": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.788907280064276,
+            "cka_n_batch": 4,
+            "cka_std": 0.0008850651202624225
+        },
+        "layer_14": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7820598417537312,
+            "cka_n_batch": 4,
+            "cka_std": 0.0009206588821764002
+        },
+        "layer_15": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7684538268430106,
+            "cka_n_batch": 4,
+            "cka_std": 0.0008989244394415144
+        },
+        "layer_16": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7829880858665459,
+            "cka_n_batch": 4,
+            "cka_std": 0.0008640551209881914
+        },
+        "layer_17": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7936639860215663,
+            "cka_n_batch": 4,
+            "cka_std": 0.0007003427357985075
+        },
+        "layer_18": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7818265043459963,
+            "cka_n_batch": 4,
+            "cka_std": 0.0008495888633289606
+        },
+        "layer_19": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.781810151097073,
+            "cka_n_batch": 4,
+            "cka_std": 0.0009799491343942157
+        },
+        "layer_2": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7532528222538434,
+            "cka_n_batch": 4,
+            "cka_std": 0.0009119377015861874
+        },
+        "layer_20": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.6900264227889374,
+            "cka_n_batch": 4,
+            "cka_std": 0.0015030536758348532
+        },
+        "layer_21": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7253504613761624,
+            "cka_n_batch": 4,
+            "cka_std": 0.0010594274515613696
+        },
+        "layer_22": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.6006353727495886,
+            "cka_n_batch": 4,
+            "cka_std": 0.0015104985857328013
+        },
+        "layer_23": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.5109550505962126,
+            "cka_n_batch": 4,
+            "cka_std": 0.0015483587045202166
+        },
+        "layer_24": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.5786704581021146,
+            "cka_n_batch": 4,
+            "cka_std": 0.0017864528429611894
+        },
+        "layer_3": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7451659443295762,
+            "cka_n_batch": 4,
+            "cka_std": 0.0011017375509644832
+        },
+        "layer_4": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7408628796490941,
+            "cka_n_batch": 4,
+            "cka_std": 0.0011491171665980154
+        },
+        "layer_5": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7540128830314663,
+            "cka_n_batch": 4,
+            "cka_std": 0.001288713328180709
+        },
+        "layer_6": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7649126507355003,
+            "cka_n_batch": 4,
+            "cka_std": 0.001166370663016228
+        },
+        "layer_7": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7768877278202584,
+            "cka_n_batch": 4,
+            "cka_std": 0.0009616611335086872
+        },
+        "layer_8": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.7967958883055203,
+            "cka_n_batch": 4,
+            "cka_std": 0.0008499954836448832
+        },
+        "layer_9": {
+            "cka_batch_size": 250,
+            "cka_mean": 0.8192472613047518,
+            "cka_n_batch": 4,
+            "cka_std": 0.0006740918129267
+        }
+    }
+}

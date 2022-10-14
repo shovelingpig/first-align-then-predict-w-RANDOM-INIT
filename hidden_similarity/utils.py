@@ -2,7 +2,7 @@ import torch
 from collections import OrderedDict
 
 
-def load_data(dir, data=None, line_filter=None, id_start=0, id_end=100,  verbose=1):
+def load_data(dir, data=None, line_filter=None, id_start=0, id_end=100, verbose=1):
     if data is None:
         data = []
     if verbose:
@@ -27,15 +27,11 @@ def load_data(dir, data=None, line_filter=None, id_start=0, id_end=100,  verbose
         return None
     if verbose:
         print(f"Loaded {n_appending} form {dir}  ")
-
     return data
-
-
 
 
 def get_batch_per_layer_head(attention, layer_head_att_batch=None, head=True):
     """
-
     :param attention:
     :param layer_head_att_batch:  if not None, will append to it as a list of tensor
     :return:
@@ -94,19 +90,13 @@ def get_hidden_representation(data, model, tokenizer,
         inputs = OrderedDict([("wordpieces_inputs_words", encoded)])
         attention_mask = OrderedDict([("wordpieces_inputs_words", torch.tensor(mask).unsqueeze(0))])
         assert real_len
-        if torch.cuda.is_available():
-            inputs["wordpieces_inputs_words"] = inputs["wordpieces_inputs_words"].cuda()
-
-            attention_mask["wordpieces_inputs_words"] = attention_mask["wordpieces_inputs_words"].cuda()
-
+        
+        inputs["wordpieces_inputs_words"] = inputs["wordpieces_inputs_words"].cuda()
+        attention_mask["wordpieces_inputs_words"] = attention_mask["wordpieces_inputs_words"].cuda()
         model_output = model(input_ids=inputs['wordpieces_inputs_words'], attention_mask=attention_mask['wordpieces_inputs_words'])
-
-        # getting the hidden states per layer
         hidden_state_per_layer = model_output[2]
-        assert len(hidden_state_per_layer) == 12 + 1, "hidden state wrong length"
-        assert hidden_state_per_layer[0].size()[-1] == 768, "hidden state wrong shape"
-
         layer_hidden_state_dic = get_batch_per_layer_head(hidden_state_per_layer, layer_hidden_state_dic, head=False)
+
     output = ()
     if output_dic:
         if len(layer_hidden_state_dic) > 0:
